@@ -72,4 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-Not Needed Animations/*
+Content/Not Needed Animations/*
+Content/Maps/*
